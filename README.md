@@ -4,7 +4,7 @@
 
 首先，根据你的Windows版本（64位还是32位）从Python的官方网站下载Python 3.8对应的[64位安装程序](https://www.python.org/ftp/python/3.8.0/python-3.8.0-amd64.exe)或[32位安装程序](https://www.python.org/ftp/python/3.8.0/python-3.8.0.exe)，然后，运行下载的exe安装包：
 
-![install-py35](README/l)
+![install-py35](https://www.liaoxuefeng.com/files/attachments/1048401552601344/l)
 
 特别要注意勾上`Add Python 3.8 to PATH`，然后点“Install Now”即可完成安装。
 
